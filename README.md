@@ -2,8 +2,6 @@
 
 Data Analysis Project (CISC 1215)
 
-This project focused on extracting and analyzing real-world datasets using NumPy and Matplotlib to identify patterns and visualize relationships.
+Analyzed real-world sales data using Pandas, Matplotlib, and Datetime to identify trends and visualize relationships. Cleaned and transformed data for data exploration, mining, and customer segmentation.
 
-Tasks included cleaning, sorting, and filtering data for exploratory data analysis, data mining, and customer segmentation.
-
-The goal was to explore potential correlations between key variables and present findings that could inform business or user insights.
+The goal was to explore correlations between key variables and present findings that could inform business or user insights.
