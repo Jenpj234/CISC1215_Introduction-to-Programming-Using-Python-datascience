@@ -2,7 +2,7 @@
 
 Data Analysis Project (CISC 1215)
 
-This project focused on extracting and analyzing real-world datasets using NumPy, Matplotlib, and Seaborn to identify patterns and visualize relationships.
+This project focused on extracting and analyzing real-world datasets using NumPy and Matplotlib to identify patterns and visualize relationships.
 
 Tasks included cleaning, sorting, and filtering data for exploratory data analysis, data mining, and customer segmentation.
 
